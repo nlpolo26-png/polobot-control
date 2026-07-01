@@ -1,7 +1,7 @@
 {
-  "version": "2.4.3",
+  "version": "2.5",
   "url": "https://github.com/GetPoloBot/polobot-control/releases/latest/download/PoloBot_Setup.exe",
-  "notas": "Arreglo de Bugs en calibracion",
+  "notas": "Avisos automáticos por Telegram, menú de comandos, EXP automática en Colector/Autocaza/Barajas/Pez, y arreglos (clics del pez y autopesca, F12, calibración).",
   "revocadas": [],
   "claves_revocadas": ["040F-A366-20270630-3-ZKRVYAZHZYRSMNRB227YPKHVZMN3YAHVOJPRNDP3M2ZCZGFIJ4IQHTG75URBEHFEXJDCLYNBVMJWRWXSQZWSGXDG6WUULKHLUU4SMCI"],
   "aviso": "🎉 Promo hasta del 40% de descuento en licencias. Escríbeme a @PoloSoporte_Bot",
