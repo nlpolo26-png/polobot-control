@@ -2,7 +2,7 @@
   "version": "2.4.3",
   "url": "https://github.com/GetPoloBot/polobot-control/releases/latest/download/PoloBot_Setup.exe",
   "notas": "Arreglo de Bugs en calibracion",
-  "revocadas": [],
+  "revocadas": [040F-A366],
   "aviso": "🎉 Promo hasta del 40% de descuento en licencias. Escríbeme a [@PoloSoporte_Bot](https://t.me/PoloSoporte_Bot)",
   "aviso_id": "promo-junio-2026"
 }
